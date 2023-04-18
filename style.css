@@ -689,7 +689,7 @@ a#sticky{
   }
   h2#title{
    font-size: 1.2rem; 
-   margin-top:270px;
+  padding-top:20px;
 
   } #index-services{
     font-size: 1.8rem;
